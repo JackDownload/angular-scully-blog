@@ -17,4 +17,4 @@ const a = 2;
 
 *stay safe*
 
-![wombo art](/assets/images/enigma.jpg "Gigantic image")
+![wombo art]( "Gigantic image")
