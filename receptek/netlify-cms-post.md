@@ -2,6 +2,7 @@
 layout: blog
 title: tESZT
 description: Testing the netlify cms
+slug: sdds
 published: true
 date: 2022-05-05T09:18:11.690Z
 image: https://images8.alphacoders.com/418/418876.jpg
