@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Netlify CMS post
+title: tESZT
 description: Testing the netlify cms
 published: true
 date: 2022-05-05T09:18:11.690Z
